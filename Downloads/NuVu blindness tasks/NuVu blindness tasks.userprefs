@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/project/scripts/Recipe.cs">
+    <Files>
+      <File FileName="Assets/project/scripts/ingredient.cs" Line="22" Column="1" />
+      <File FileName="Assets/project/scripts/Recipe.cs" Line="42" Column="1" />
+      <File FileName="Assets/NuvuAssets/Scripts/MoveObjectOnDrag.cs" Line="13" Column="28" />
+      <File FileName="Assets/NuvuAssets/Scripts/TouchToRaycast.cs" Line="83" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

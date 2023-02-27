@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/NuvuAssets/Scenes/Making some pasta.unity
+  isLoaded: 1
+  isActive: 1
